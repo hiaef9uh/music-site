@@ -1,0 +1,11 @@
+const kick = new Audio("sounds/kick.mp3");
+
+function playKick() {
+    kick.currentTime = 0;
+    kick.play();
+}const kick = new Audio("sounds/kick.mp3");
+
+function playKick() {
+    kick.currentTime = 0;
+    kick.play();
+}

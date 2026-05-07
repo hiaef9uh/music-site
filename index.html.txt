@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Music Site</title>
+</head>
+<body>
+
+    <h1>Music Pad</h1>
+
+    <button onclick="playKick()">
+        Play Sound
+    </button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
